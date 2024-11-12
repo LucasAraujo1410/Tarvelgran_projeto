@@ -1,5 +1,20 @@
+/*IRÁ REALIZAR AS MODIFICAÇÕES GLOBAIS NO CSS*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+:root{
+    --brand-color:#EF5F4C;
+    --background-color:#FFFFFF;
+    --surface-color:#F5F5F5;
+    --skeleton-color:#D9D9D9;
+    --shape-transparency:hwb(0 100% 0% / 0.562);
+    --text-color-primary:#313131;
+    --text-color-secondary:#6C6C6C;
+}
+
+body{
+    background-color: var(--text-color-secondary);
 }
