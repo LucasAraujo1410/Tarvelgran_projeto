@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*ARMAZENANDO CORES EM VARÍAVEIS */
 :root{
     --brand-color:#EF5F4C;
     --background-color:#FFFFFF;
@@ -13,10 +13,13 @@
     --shape-transparency:hwb(0 100% 0% / 0.562);
     --text-color-primary:#313131;
     --text-color-secondary:#6C6C6C;
+    /*FONTES*/
+    --font-family: "Poppins", serif;
+    --text-lg:bold 32px/125% var(--font-family);
+    --text:16px/24px var(--font-family);
+    --text-md: 14px/170% var(--font-family);
+    --text-sm: 12px/170% var(--font-family);
 }
 
-body{
-    color: var(--text-color-secondary);
-    background-color: var(--background-color);
-}
+
 
