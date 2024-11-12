@@ -16,5 +16,7 @@
 }
 
 body{
-    background-color: var(--text-color-secondary);
+    color: var(--text-color-secondary);
+    background-color: var(--background-color);
 }
+
