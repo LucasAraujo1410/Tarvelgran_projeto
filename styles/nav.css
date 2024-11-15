@@ -1,6 +1,6 @@
 /*MODIFICAÇÕES ESPECÍFICAS DE DETERMINADOS ELEMENTOS DA PÁGINA SERÃO CRIADAS E APLICADAS*/
 /*NAVBAR*/
-header{
+nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
