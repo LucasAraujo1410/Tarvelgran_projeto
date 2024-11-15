@@ -1,5 +1,5 @@
 header{
-    border: solid 1px;
+ 
     padding-block:32px;
     font: var(--text-md);
 }
@@ -35,7 +35,6 @@ header .container{
     flex-direction: column;
     gap: 16px;
     width: 280px;
-    border: solid 1px;
 
 }
 
